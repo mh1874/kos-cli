@@ -1,0 +1,22 @@
+{
+  "name": "kos-cli",
+  "version": "0.0.1",
+  "description": "Auto generate project template",
+  "main": "index.js",
+  "bin": {
+    "kos-cli": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mh1874/kos-cli.git"
+  },
+  "keywords": [
+    "cli"
+  ],
+  "author": "金角大王",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mh1874/kos-cli/issues"
+  },
+  "homepage": "https://github.com/mh1874/kos-cli#readme"
+}
